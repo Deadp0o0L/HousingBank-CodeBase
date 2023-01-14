@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/[NG] Project Rubix/Project-RUBIX/WebContent/WEB-INF/lib/com.ibm.dhbcore.jar"/>
+	<classpathentry kind="lib" path="D:/[NG] Project Rubix/Project-RUBIX/WebContent/WEB-INF/lib/com.ibm.mq.jar"/>
+	<classpathentry kind="lib" path="D:/[NG] Project Rubix/Project-RUBIX/WebContent/WEB-INF/lib/com.ibm.mq.jmqi.jar"/>
+	<classpathentry kind="lib" path="D:/[NG] Project Rubix/Project-RUBIX/WebContent/WEB-INF/lib/com.ibm.mqetclient.jar"/>
+	<classpathentry kind="lib" path="D:/[NG] Project Rubix/Project-RUBIX/WebContent/WEB-INF/lib/com.ibm.mqjms.jar"/>
+	<classpathentry kind="lib" path="D:/[NG] Project Rubix/Project-RUBIX/WebContent/WEB-INF/lib/connector.jar"/>
+	<classpathentry kind="lib" path="D:/[NG] Project Rubix/Project-RUBIX/WebContent/WEB-INF/lib/httpclient-4.3-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/[NG] Project Rubix/Project-RUBIX/WebContent/WEB-INF/lib/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="D:/[NG] Project Rubix/Project-RUBIX/WebContent/WEB-INF/lib/httpmime-4.3.jar"/>
+	<classpathentry kind="lib" path="D:/[NG] Project Rubix/Project-RUBIX/WebContent/WEB-INF/lib/iforms.jar"/>
+	<classpathentry kind="lib" path="D:/[NG] Project Rubix/Project-RUBIX/WebContent/WEB-INF/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="D:/[NG] Project Rubix/Project-RUBIX/WebContent/WEB-INF/lib/javax.servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/[NG] Project Rubix/Project-RUBIX/WebContent/WEB-INF/lib/jpos-dep.jar"/>
+	<classpathentry kind="lib" path="D:/[NG] Project Rubix/Project-RUBIX/WebContent/WEB-INF/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/[NG] Project Rubix/Project-RUBIX/WebContent/WEB-INF/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="D:/[NG] Project Rubix/Project-RUBIX/WebContent/WEB-INF/lib/ngejbcallbroker.jar"/>
+	<classpathentry kind="lib" path="D:/[NG] Project Rubix/Project-RUBIX/WebContent/WEB-INF/lib/omnishared.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
